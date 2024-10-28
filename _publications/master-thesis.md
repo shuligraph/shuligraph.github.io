@@ -6,6 +6,6 @@ permalink: /publication/master-thesis
 date: 2023-06-10
 excerpt: ''
 pubtype: 'thesis'
-venue: '2023'
+venue: 'Defended: May 2023'
 author: 'S. Li'
 ---
