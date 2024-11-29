@@ -7,11 +7,39 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<p>
+  <img
+    src="https://flagcdn.com/16x12/gb.png"
+    srcset="https://flagcdn.com/32x24/gb.png 2x, https://flagcdn.com/48x36/gb.png 3x"
+    width="16" height="12" alt="英国"> Hello! 
+  <img
+    src="https://flagcdn.com/16x12/fr.png"
+    srcset="https://flagcdn.com/32x24/fr.png 2x, https://flagcdn.com/48x36/fr.png 3x"
+    width="16" height="12" alt="法国"> Bonjour!
+  <img
+    src="https://flagcdn.com/16x12/zh.png"
+    srcset="https://flagcdn.com/32x24/zh.png 2x, https://flagcdn.com/48x36/zh.png 3x"
+    width="16" height="12" alt="中国"> 你好！
+  <img
+    src="https://flagcdn.com/16x12/ru.png"
+    srcset="https://flagcdn.com/32x24/ru.png 2x, https://flagcdn.com/48x36/ru.png 3x"
+    width="16" height="12" alt="俄罗斯"> Привет!
+  <img
+    src="https://flagcdn.com/16x12/sa.png"
+    srcset="https://flagcdn.com/32x24/sa.png 2x, https://flagcdn.com/48x36/sa.png 3x"
+    width="16" height="12" alt="沙特阿拉伯"> مرحبا!
+</p>
+
+
 ### About me
+I am a Ph.D. student in the [ARGO](https://www.di.ens.fr/argo/) team at [INRIA](https://www.inria.fr) Paris and the [Computer Science Department of École Normale Supérieure (DI ENS, PSL University)](https://www.di.ens.fr/), under the guidance of [Prof. Ana Bušić](https://www.di.ens.fr/~busic/). My research focuses on *Learning in Dynamic Matching Learning Models*, a topic at the intersection of algorithms, optimization, and learning theory.
 
-I'm a PhD student in the [ARGO](https://www.di.ens.fr/argo/) team of [INRIA](https://www.inria.fr) Paris and [DIENS](https://www.di.ens.fr/) (computer science department of Ecole Normale Supérieure), guided by [Professor Ana Bušić](https://www.di.ens.fr/~busic/). My thesis is on Dynamic Matching Learning. I earned a Master's in Graph Theory, focusing on the [Matrix-Tree Theorem](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDMD&filename=1023784641.nh). I also studied the [family graphs with small rank](http://ccj.pku.edu.cn/article/info?aid=356769604) and [vector Laplacian on graphs](https://arxiv.org/pdf/2312.05754.pdf). During this time, I collaborated with [Jianfeng Wang](https://www.researchgate.net/profile/Jianfeng-Wang-15), Zoran Sanic, Weifan Wang, and others. I did my undergraduate studies in Applied Mathematics, with a focus on Linear Algebra, Number Theory, and Modern Algebra.
+Previously, I earned an M.Sc. degree in Graph Theory, where I explored advanced concepts like the [Matrix-Tree Theorem](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDMD&filename=1023784641.nh), [family graphs with small rank](http://ccj.pku.edu.cn/article/info?aid=356769604), and the [vector Laplacian on graphs](https://arxiv.org/pdf/2312.05754.pdf). My work involved collaborations with leading researchers, including [Prof. Jianfeng Wang](https://www.researchgate.net/profile/Jianfeng-Wang-15), Dr. Ning Bian, and others.
 
-You can find more about my academic journey and other interests in my [CV](http://shuligraph.github.io/files/CV_shuli.pdf).
+I hold a Bachelor's degree in Applied Mathematics, where I developed a strong foundation in Linear Algebra, Number Theory, and Modern Algebra. These mathematical disciplines continue to inform my current research.
+
+Beyond my thesis, I am passionate about connecting theoretical insights with practical applications in computer science and mathematics. You can explore my academic journey and other interests in my [CV](http://shuligraph.github.io/files/CV_shuli.pdf).
 
 ### Research interests
 
@@ -19,14 +47,9 @@ You can find more about my academic journey and other interests in my [CV](http:
 * Graph Application, Graphical Model
 * Linear Algebra, Matrix Theory
 
-### Languages
-
- ![English](gb.png) Hello! 
- ![French](fr.png) Bonjour!
- ![Chinese](zh.png) [你好！](https://shuligraph.gitee.io/)
 
 ### Society
 * [Société Mathématique de France(SMF)](https://smf.emath.fr/), 2024-2026
 * [Société informatique de France(SiF)](https://archive.societe-informatique-de-france.fr/), 2024-2025
-* [Société de Mathématiques Appliquées et Industrielles (SMAI)](http://smai.emath.fr/),2024
+* [Société de Mathématiques Appliquées et Industrielles (SMAI)](http://smai.emath.fr/),2024-2025
  
