@@ -18,9 +18,9 @@ redirect_from:
     srcset="https://flagcdn.com/32x24/fr.png 2x, https://flagcdn.com/48x36/fr.png 3x"
     width="16" height="12" alt="法国"> Bonjour!
   <img
-    src="https://flagcdn.com/16x12/zh.png"
-    srcset="https://flagcdn.com/32x24/zh.png 2x, https://flagcdn.com/48x36/zh.png 3x"
-    width="16" height="12" alt="中国"> 你好！
+    src="https://flagcdn.com/16x12/cn.png"
+    srcset="https://flagcdn.com/32x24/cn.png 2x, https://flagcdn.com/48x36/cn.png 3x"
+    width="16" height="12" alt="中华人民共和国"> 你好！
   <img
     src="https://flagcdn.com/16x12/ru.png"
     srcset="https://flagcdn.com/32x24/ru.png 2x, https://flagcdn.com/48x36/ru.png 3x"
