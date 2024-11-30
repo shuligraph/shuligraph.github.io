@@ -11,7 +11,7 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  color: #2E3B55 !important;
+  color: #fff !important;
   font-family: $sans-serif;
   font-size: $type-size-6;
   font-weight: bold;
@@ -68,40 +68,40 @@
   /* information */
 
   &--info {
-    background-color: $info-color;
+    background-color: #2E3B55;
 
     &:hover {
-      background-color: mix(#000, $info-color, 20%);
+      background-color: mix(#000, #2E3B55, 20%);
     }
   }
 
   /* warning */
 
   &--warning {
-    background-color: $warning-color;
+    background-color: #2E3B55;
 
     &:hover {
-      background-color: mix(#000, $warning-color, 20%);
+      background-color: mix(#000, #2E3B55, 20%);
     }
   }
 
   /* success */
 
   &--success {
-    background-color: $success-color;
+    background-color: #2E3B55;
 
     &:hover {
-      background-color: mix(#000, $success-color, 20%);
+      background-color: mix(#000, #2E3B55, 20%);
     }
   }
 
   /* danger */
 
   &--danger {
-    background-color: $danger-color;
+    background-color: #2E3B55;
 
     &:hover {
-      background-color: mix(#000, $danger-color, 20%);
+      background-color: mix(#000, #2E3B55, 20%);
     }
   }
 
