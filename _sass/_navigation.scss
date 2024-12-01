@@ -259,7 +259,7 @@
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
-    background: #fff;
+    background: #20212b;
     box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {
@@ -281,7 +281,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: $border-color transparent;
+      border-color: #20212b transparent;
       display: block;
       z-index: 0;
     }
@@ -294,14 +294,14 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: #fff transparent;
+      border-color: #20212b transparent;
       display: block;
       z-index: 1;
     }
 
     li {
       display: block;
-      border-bottom: 1px solid $border-color;
+      border-bottom: 1px solid #20212b;
 
       &:last-child {
         border-bottom: none;
