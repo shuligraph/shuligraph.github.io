@@ -50,6 +50,6 @@ Beyond my thesis, I am passionate about connecting theoretical insights with pra
 
 ### Society
 * [Société Mathématique de France(SMF)](https://smf.emath.fr/), 2024-2026
-* [Société informatique de France(SiF)](https://archive.societe-informatique-de-france.fr/), 2024-2025
+* [Société informatique de France(SiF)](https://archive.societe-informatique-de-france.fr/), 2024-2026
 * [Société de Mathématiques Appliquées et Industrielles (SMAI)](http://smai.emath.fr/),2024-2025
  
