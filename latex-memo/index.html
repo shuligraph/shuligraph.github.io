@@ -3,8 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KaTeX 示例</title>
+    <title>数学公式 + 代码 自动编号</title>
+    
+    <!-- KaTeX 样式 -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
+    
+    <!-- KaTeX 渲染 -->
     <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
     <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/auto-render.min.js"
         onload="renderMathInElement(document.body, { 
@@ -13,20 +17,37 @@
                 {left: '$', right: '$', display: false}    
             ]
         });"></script>
+
+    <style>
+        ol { counter-reset: item-counter; list-style: none; padding-left: 0; }
+        ol li::before {
+            counter-increment: item-counter;
+            content: counter(item-counter) ". ";
+            font-weight: bold;
+        }
+        pre { background: #f4f4f4; padding: 10px; border-radius: 5px; }
+    </style>
 </head>
 <body>
-    <h1>KaTeX 数学公式示例</h1>
-    
-    <p>行内公式：$E = mc^2$</p>
+    <h1>自动编号笔记示例</h1>
 
-    <p>另一种行内公式（推荐）：\( E = mc^2 \)</p>
+    <p>以下是自动编号的数学公式和代码：</p>
 
-    <p>这是一个块级公式：</p>
-    <p>$$
+    <ol>
+        <li>代码示例：</li>
+        <pre><code>1 + 1 = 2</code></pre>
+
+        <li>行内数学公式：$1+1=2$</li>
+
+        <li>块级数学公式：</li>
+        <p>$$
         a^2 + b^2 = c^2
-    $$</p>
+        $$</p>
+
+        <li>矩阵示例：</li>
+        <p>$$
+        A = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}
+        $$</p>
+    </ol>
 </body>
 </html>
-
-
-
