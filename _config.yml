@@ -59,7 +59,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : "shuligraph"
-  mastodon         : # URL
+  mastodon         : "https://mathstodon.xyz/@shuli"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
@@ -73,6 +73,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+  manifold         : "https://manifold.markets/shuli"
 
 
 # Site Settings
