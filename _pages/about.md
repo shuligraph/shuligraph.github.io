@@ -1,49 +1,55 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Home"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<p>
+  <img
+    src="https://flagcdn.com/16x12/gb.png"
+    srcset="https://flagcdn.com/32x24/gb.png 2x, https://flagcdn.com/48x36/gb.png 3x"
+    width="16" height="12" alt="英国"> Hello! 
+  <img
+    src="https://flagcdn.com/16x12/fr.png"
+    srcset="https://flagcdn.com/32x24/fr.png 2x, https://flagcdn.com/48x36/fr.png 3x"
+    width="16" height="12" alt="法国"> Bonjour!
+  <img
+    src="https://flagcdn.com/16x12/cn.png"
+    srcset="https://flagcdn.com/32x24/cn.png 2x, https://flagcdn.com/48x36/cn.png 3x"
+    width="16" height="12" alt="中华人民共和国"> 你好！
+  <img
+    src="https://flagcdn.com/16x12/ru.png"
+    srcset="https://flagcdn.com/32x24/ru.png 2x, https://flagcdn.com/48x36/ru.png 3x"
+    width="16" height="12" alt="俄罗斯"> Привет!
+  <img
+    src="https://flagcdn.com/16x12/sa.png"
+    srcset="https://flagcdn.com/32x24/sa.png 2x, https://flagcdn.com/48x36/sa.png 3x"
+    width="16" height="12" alt="沙特阿拉伯"> مرحبا!
+</p>
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+### About me
+I am a Ph.D. student in the [ARGO](https://www.di.ens.fr/argo/) team at [INRIA](https://www.inria.fr) Paris and the [Département d'Informatique de l'ENS (DI ENS, PSL Université)](https://www.di.ens.fr/), advised by [Prof. Ana Bušić](https://www.di.ens.fr/~busic/). My research focuses on Learning in Dynamic Matching Learning Models, a topic at the intersection of algorithms, optimization, and learning theory.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Previously, I earned an M.Sc. in Graph Theory, where I explored advanced topics such as the [Matrix-Tree Theorem](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDMD&filename=1023784641.nh), [family graphs with small rank](http://ccj.pku.edu.cn/article/info?aid=356769604), and the [vector Laplacian on graphs](https://arxiv.org/pdf/2312.05754.pdf). My work involved collaborations with leading researchers, including [Prof. Jianfeng Wang](https://www.researchgate.net/profile/Jianfeng-Wang-15), Dr. Ning Bian, and others.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I hold a B.Sc. in Applied Mathematics, where I built a strong foundation in Linear Algebra, Number Theory, and Modern Algebra—disciplines that continue to shape my research.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Beyond my thesis, I am passionate about bridging theoretical insights with practical applications in computer science and mathematics. You can learn more about my academic journey in my [CV](http://shuligraph.github.io/files/CV_shuli.pdf).
 
-**Markdown generator**
+### Research interests
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+* Graph Theory, Graph Matrix
+* Graph Application, Graphical Model
+* Linear Algebra, Matrix Theory
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+### Society
+* [Société Mathématique de France(SMF)](https://smf.emath.fr/), 2024-2026
+* [Société informatique de France(SiF)](https://archive.societe-informatique-de-france.fr/), 2024-2026
+* [Société de Mathématiques Appliquées et Industrielles (SMAI)](http://smai.emath.fr/),2024-2025
+ 
