@@ -1,11 +1,15 @@
 ---
 title: "Matrix-Tree Theorem of digraphs via signless Laplacians"
 collection: publications
-link: https://doi.org/10.1016/j.laa.2022.10.027
-permalink: /publication/2023-LAA
-date: 2023-02-01
-excerpt: ''
 pubtype: 'journal'
+category: journal
+permalink: /publication/2023-LAA
+excerpt: ''
+date: 2023-02-01
 venue: 'Linear Algebra and its Application, 658(2023) 32–48'
-author: 'S. Li, L. Lu, J. Wang and W. Wang'
+slidesurl: 'https://doi.org/10.1016/j.laa.2022.10.027'
+paperurl: 'https://doi.org/10.1016/j.laa.2022.10.027'
+bibtexurl: 'https://doi.org/10.1016/j.laa.2022.10.027'
+citation: 'S. Li, L. Lu, J. Wang and W. Wang, Linear Algebra and its Application, 658(2023) 32–48'
 ---
+publish
