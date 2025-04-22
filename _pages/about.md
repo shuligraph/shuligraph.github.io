@@ -39,7 +39,7 @@ Previously, I earned an M.Sc. in Graph Theory, where I explored advanced topics 
 
 I hold a B.Sc. in Applied Mathematics, where I built a strong foundation in Linear Algebra, Number Theory, and Modern Algebra—disciplines that continue to shape my research.
 
-Beyond my thesis, I am passionate about bridging theoretical insights with practical applications in computer science and mathematics. You can learn more about my academic journey in my [CV](http://shuligraph.github.io/files/CV_shuli.pdf).
+Beyond my thesis, I am passionate about bridging theoretical insights with practical applications in computer science and mathematics. You can learn more about my academic journey in my [CV](https://shuligraph.github.io/cv/).
 
 ### Research interests
 
