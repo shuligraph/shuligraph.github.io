@@ -33,7 +33,7 @@ redirect_from:
 
 
 ### About me
-I am a Ph.D. student in the [ARGO](https://www.di.ens.fr/argo/) team at [INRIA](https://www.inria.fr) Paris and the [Département d'Informatique de l'ENS (DI ENS, PSL Université)](https://www.di.ens.fr/), advised by [Prof. Ana Bušić](https://www.di.ens.fr/~busic/). My research focuses on Learning in Dynamic Matching Learning Models, a topic at the intersection of algorithms, optimization, and learning theory.
+I am a Ph.D. candidate in the [ARGO](https://www.di.ens.fr/argo/) team at [INRIA](https://www.inria.fr) Paris and the [Département d'Informatique de l'ENS (DI ENS, PSL Université)](https://www.di.ens.fr/), advised by [Prof. Ana Bušić](https://www.di.ens.fr/~busic/). I am also working with the famous scholar [Prof. Jean-Michel Fourneau](https://www.researchgate.net/profile/Jean-Fourneau). My research focuses on Learning in Dynamic Matching Learning Models, a topic at the intersection of algorithms, optimization, and learning theory.
 
 Previously, I earned an M.Sc. in Graph Theory, where I explored advanced topics such as the [Matrix-Tree Theorem](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDMD&filename=1023784641.nh), [family graphs with small rank](http://ccj.pku.edu.cn/article/info?aid=356769604), and the [vector Laplacian on graphs](https://arxiv.org/pdf/2312.05754.pdf). My work involved collaborations with leading researchers, including [Prof. Jianfeng Wang](https://www.researchgate.net/profile/Jianfeng-Wang-15), Dr. Ning Bian, and others.
 
@@ -41,11 +41,17 @@ I hold a B.Sc. in Applied Mathematics, where I built a strong foundation in Line
 
 Beyond my thesis, I am passionate about bridging theoretical insights with practical applications in computer science and mathematics. You can learn more about my academic journey in my [CV](https://shuligraph.github.io/cv/).
 
-### Research interests
+### Research Interests
 
-* Graph Theory, Graph Matrix
-* Graph Application, Graphical Model
-* Linear Algebra, Matrix Theory
+1. **Algebra → Linear Algebra → Matrix Theory**  
+   I am interested in the structural properties of matrices and their roles in linear systems and algebraic computations.
+
+2. **Combinatorics / Discrete Mathematics → Graph Theory → Spectral Graph Theory**  
+   I study the spectral properties of graphs, particularly how eigenvalues relate to graph structure, using algebraic techniques in discrete settings.
+
+3. **Game Theory & Mechanism Design → Random Matching Models → Learning Behavior and the Performance Paradox**  
+   I explore random matching mechanisms under incomplete information, focusing on how individual learning dynamics can lead to systemic performance paradoxes.
+
 
 
 ### Society
