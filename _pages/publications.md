@@ -4,6 +4,9 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 ---
+<p>
+This section lists my publications, including journal articles, conference papers, and preprints related to graph theory, combinatorial optimization, and network systems.
+</p>
 
 <h2>Journals</h2>
   {% for post in site.publications reversed %} 
