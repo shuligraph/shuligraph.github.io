@@ -6,6 +6,6 @@ permalink: /publication/2025-NETGCOOP
 date: 2025-10-08
 excerpt: ''
 pubtype: 'conference'
-venue: 'NETGCOOP 2025.'
+venue: 'NETGCOOP 2025'
 author: 'A. Busic, J.M. Fourneau, A. Lunven, S. Li'
 ---
