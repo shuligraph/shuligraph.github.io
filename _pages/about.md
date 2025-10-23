@@ -33,7 +33,7 @@ redirect_from:
 
 
 ### About me
-I am a Ph.D. candidate in the [ARGO](https://www.di.ens.fr/argo/) team at [INRIA](https://www.inria.fr) Paris and the [Département d'Informatique de l'ENS (DI ENS, PSL Université)](https://www.di.ens.fr/), advised by [Prof. Ana Bušić](https://www.di.ens.fr/~busic/). I am also working with the famous scholar [Prof. Jean-Michel Fourneau](https://www.researchgate.net/profile/Jean-Fourneau). My research focuses on Learning in Dynamic Matching Learning Models, a topic at the intersection of algorithms, optimization, and learning theory.
+I am a Ph.D. candidate in the [ARGO](https://www.di.ens.fr/argo/) team at [INRIA](https://www.inria.fr) Paris and the [Département d'Informatique de l'ENS (DI ENS, PSL Université)](https://www.di.ens.fr/), advised by [Dr. Ana Bušić](https://www.di.ens.fr/~busic/) and [Prof. Jean-Michel Fourneau](https://www.researchgate.net/profile/Jean-Fourneau). My research focuses on Learning in Dynamic Matching Learning Models, a topic at the intersection of algorithms, optimization, and learning theory.
 
 Previously, I earned an M.Sc. in Graph Theory, where I explored advanced topics such as the [Matrix-Tree Theorem](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDMD&filename=1023784641.nh), [family graphs with small rank](http://ccj.pku.edu.cn/article/info?aid=356769604), and the [vector Laplacian on graphs](https://arxiv.org/pdf/2312.05754.pdf). My work involved collaborations with leading researchers, including [Prof. Jianfeng Wang](https://www.researchgate.net/profile/Jianfeng-Wang-15), Dr. Ning Bian, and others.
 
