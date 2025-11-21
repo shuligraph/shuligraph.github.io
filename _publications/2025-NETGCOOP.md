@@ -1,7 +1,7 @@
 ---
 title: "Performance paradoxes in matching systems are  not that rare"
 collection: publications
-link: https://shuligraph.github.io/
+link: https://doi.org/10.1007/978-3-032-09315-8_3
 permalink: /publication/2025-NETGCOOP
 date: 2025-10-08
 excerpt: ''
