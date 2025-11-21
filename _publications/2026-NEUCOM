@@ -1,1 +1,11 @@
-1
+---
+title: "ORKM: An R package for online multi-view data clustering"
+collection: publications
+link: https://doi.org/10.1016/j.neucom.2025.131973
+permalink: /publication/2026-NEUCOM
+date: 2026-02-28
+excerpt: ''
+pubtype: 'journal'
+venue: 'Neurocomputing, 663(2026), 131973'
+author: 'M. Yu, S. Li and G. Guo'
+---
