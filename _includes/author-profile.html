@@ -65,6 +65,9 @@
       {% if author.hal %}
         <li><a href="{{ author.hal }}"><i class="ai ai-hal icon-pad-right"></i>HAL</a></li>
       {% endif %}
+      {% if author.hal %}
+        <li><a href="{{ author.clarivate }}"><i class="ai ai-clarivate icon-pad-right"></i>WOS</a></li>
+      {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
