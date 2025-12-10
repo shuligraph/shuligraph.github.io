@@ -40,6 +40,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Shu-Li-58"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57931251200"
+  hal              : "https://cv.hal.science/shu-li"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
