@@ -56,7 +56,7 @@ Beyond my thesis, I am passionate about bridging theoretical insights with pract
 
 ### Society
 * [The International Linear Algebra Society(ILAS)](https://ilasic.org/), 2025-2026
-* [Société Mathématique de France(SMF)](https://smf.emath.fr/), 2024-2026
-* [Société informatique de France(SiF)](https://archive.societe-informatique-de-france.fr/), 2024-2026
-* [Société de Mathématiques Appliquées et Industrielles (SMAI)](http://smai.emath.fr/), ID11476, 2024-2025
+* [Société Mathématique de France(SMF)](https://smf.emath.fr/), #19419, 2024-2026
+* [Société informatique de France(SiF)](https://archive.societe-informatique-de-france.fr/), #1202402194, 2024-2026
+* [Société de Mathématiques Appliquées et Industrielles (SMAI)](http://smai.emath.fr/), #11476, 2024-2025
  
