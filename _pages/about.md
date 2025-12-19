@@ -61,5 +61,6 @@ Beyond my thesis, I am passionate about bridging theoretical insights with pract
 * [Société de Mathématiques Appliquées et Industrielles (SMAI)](http://smai.emath.fr/), #11476, 2024-2025
 
 ### Editor, Reviwer
-* zbMATH li.shu #21932
+* zbMATH Reviwer li.shu #21932, 2025-
+* Mathematical Reviews #187345, 2025-
  
