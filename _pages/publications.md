@@ -12,13 +12,11 @@ This section lists my publications, including journal articles, conference paper
 <ul>
   <li>
     <strong>Mathematics:</strong>
-    <a href="https://mathscinet-ams-org.proxy.rubens.ens.fr/mathscinet/MRAuthorID/1533482">MathSciNet (AMS)</a>,
-    <a href="https://zbmath.org/authors/?q=ai:li.shu">zbMATH Open</a>
+    <a href="https://mathscinet-ams-org.proxy.rubens.ens.fr/mathscinet/MRAuthorID/1533482">MathSciNet (Mathematical Reviews: MRAuthorID/1533482)</a>
   </li>
   <li>
     <strong>Computer Science:</strong>
-    <a href="https://dblp.org/pid/66/6852-6">dblp</a>,
-    <a href="https://openreview.net/profile?id=%7EShu_Li12">OpenReview</a>
+    <a href="https://dblp.org/pid/66/6852-6">DBLP Computer Science Bibliography</a>
   </li>
 </ul>
 
