@@ -1,5 +1,5 @@
 ---
-title: "Learning in dynamic matching models"
+title: "Performance Paradoxes and Admission Control in Stochastic Matching Models"
 collection: publications
 link: https://shuligraph.github.io
 permalink: /publication/PhD-thesis
