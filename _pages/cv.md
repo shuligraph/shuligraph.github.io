@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-If file does not load below, <a href="{{ site.baseurl }}/files/cv_shuli_printer.pdf">try downloading (pdf).</a>
+If file does not load below, <a href="{{ site.baseurl }}/files/cv-shuli.pdf">try downloading (pdf).</a>
 
 <embed src="{{ site.baseurl }}/files/cv_shuli_printer.pdf" width="650" height="800" type='application/pdf'>
