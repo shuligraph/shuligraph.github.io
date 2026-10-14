@@ -31,27 +31,28 @@ redirect_from:
     width="16" height="12" alt="沙特阿拉伯"> مرحبا!
 </p>
 
-
 ### About me
-I am a Ph.D. candidate in the [ARGO](https://www.di.ens.fr/argo/) team at [INRIA](https://www.inria.fr) Paris and the [Département d'Informatique de l'ENS (DI ENS, PSL Université)](https://www.di.ens.fr/), advised by [Dr. Ana Bušić](https://www.di.ens.fr/~busic/) and [Prof. Jean-Michel Fourneau](https://www.researchgate.net/profile/Jean-Fourneau). My research focuses on performance paradoxes and admission control in stochastic matching models, a topic at the intersection of algorithms, optimization, and learning theory.
 
-Previously, I earned an M.Sc. in Graph Theory, where I explored advanced topics such as the [Matrix-Tree Theorem](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDMD&filename=1023784641.nh), [family graphs with small rank](http://ccj.pku.edu.cn/article/info?aid=356769604), and the [vector Laplacian on graphs](https://arxiv.org/pdf/2312.05754.pdf). My work involved collaborations with leading researchers, including [Prof. Jianfeng Wang](https://www.researchgate.net/profile/Jianfeng-Wang-15), Dr. Ning Bian, and others.
+I am a Ph.D. candidate in the [ARGO](https://www.di.ens.fr/argo/) team at [Inria Paris](https://www.inria.fr) and the [Department of Computer Science at École normale supérieure–PSL](https://www.di.ens.fr/), supervised by [Ana Bušić](https://www.di.ens.fr/~busic/) and [Jean-Michel Fourneau](https://www.researchgate.net/profile/Jean-Fourneau).
 
-I hold a B.Sc. in Applied Mathematics, where I built a strong foundation in Linear Algebra, Number Theory, and Modern Algebra—disciplines that continue to shape my research.
+My Ph.D. research lies in **applied probability and stochastic networks**, with a particular focus on **stochastic matching models**. I study how network structure and matching policies shape stability and long-run performance, including the emergence of performance paradoxes.
 
-Beyond my thesis, I am passionate about bridging theoretical insights with practical applications in computer science and mathematics. You can learn more about my academic journey in my [CV](https://shuligraph.github.io/cv/).
+Previously, I completed my master's studies with a research focus on **graph theory and spectral graph theory**. My work explored connections between graph structure and matrix properties, including spanning-tree enumeration, graph rank, Laplacian matrices, and extremal spectral problems. During this period, I collaborated with [Prof. Jianfeng Wang](https://www.researchgate.net/profile/Jianfeng-Wang-15), Dr. Ning Bian, and other researchers.
+
+I hold a bachelor's degree in Applied Mathematics. My mathematical background connects algebraic and combinatorial methods with stochastic modeling and performance analysis.
+
+You can find more information about my academic background, publications, and research experience in my [CV](https://shuligraph.github.io/cv/).
 
 ### Research Interests
 
-1. **Algebra → Linear Algebra → Matrix Theory**  
-   I am interested in the structural properties of matrices and their roles in linear systems and algebraic computations.
+- **Applied Probability and Stochastic Networks**  
+  Stochastic modeling, matching and queueing systems, stability, performance analysis, and resource allocation.
 
-2. **Combinatorics / Discrete Mathematics → Graph Theory → Spectral Graph Theory**  
-   I study the spectral properties of graphs, particularly how eigenvalues relate to graph structure, using algebraic techniques in discrete settings.
+- **Graph Theory and Combinatorics**  
+  Structural and extremal graph problems, spectral graph theory, and algebraic methods in combinatorics.
 
-3. **Game Theory & Mechanism Design → Random Matching Models → Learning Behavior and the Performance Paradox**  
-   I explore random matching mechanisms under incomplete information, focusing on how individual learning dynamics can lead to systemic performance paradoxes.
-
+- **Linear Algebra and Matrix Theory**  
+  Spectral and structural properties of matrices, particularly their connections with graphs and other discrete structures.
 
 
 ### Society Member
