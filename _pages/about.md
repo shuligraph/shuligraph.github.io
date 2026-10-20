@@ -33,7 +33,7 @@ redirect_from:
 
 ### About me
 
-I am a Ph.D. candidate in the [ARGO](https://www.di.ens.fr/argo/) team at [Inria Paris](https://www.inria.fr) and the [Department of Computer Science at École normale supérieure–PSL](https://www.di.ens.fr/), supervised by [Ana Bušić](https://www.di.ens.fr/~busic/) and [Jean-Michel Fourneau](https://www.researchgate.net/profile/Jean-Fourneau).
+I am a Ph.D. candidate in the [ARGO](https://www.di.ens.fr/argo/) team at [Inria Paris](https://www.inria.fr) and the [Department of Computer Science at École normale supérieure–PSL](https://www.di.ens.fr/), supervised by Profs. [Ana Bušić](https://www.di.ens.fr/~busic/) and [Jean-Michel Fourneau](https://www.researchgate.net/profile/Jean-Fourneau).
 
 My Ph.D. research lies in **applied probability and stochastic networks**, with a particular focus on **stochastic matching models**. I study how network structure and matching policies shape stability and long-run performance, including the emergence of performance paradoxes.
 
